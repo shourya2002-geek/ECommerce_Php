@@ -1,7 +1,7 @@
 # ECommerce Website in Php
 ![e-Commerce logo]( https://github.com/shourya2002-geek/ECommerce_Php/blob/master/media/logo/logo.jpeg)
 
-This is a project about a website for e-Commerce. It is not a complete e-commerce system, however it serves as a basis for building one. This project uses [MVC design pattern](https://github.com/williamniemiec/MVC-in-PHP), made in PHP.
+This is a project about a website for e-Commerce. It is not a complete e-commerce system, however it serves as a basis for building one. This project uses MVC design pattern, made in PHP.
 
 <hr />
 
